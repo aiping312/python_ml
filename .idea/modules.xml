@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DeepLearning/.idea/DeepLearning.iml" filepath="$PROJECT_DIR$/../DeepLearning/.idea/DeepLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Kaggle.iml" filepath="$PROJECT_DIR$/.idea/Kaggle.iml" />
+      <module fileurl="file://C:/github/auto-sklearn/.idea/auto-sklearn.iml" filepath="C:/github/auto-sklearn/.idea/auto-sklearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tools/.idea/tools.iml" filepath="$PROJECT_DIR$/../tools/.idea/tools.iml" />
+      <module fileurl="file://C:/github/xgboost/.idea/xgboost.iml" filepath="C:/github/xgboost/.idea/xgboost.iml" />
+    </modules>
+  </component>
+</project>
